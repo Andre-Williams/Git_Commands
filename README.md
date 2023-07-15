@@ -48,3 +48,21 @@ To check the specific changes made with in the files use the following command:
 ```
 > git diff
 ```
+
+To check which branch you are on use the following command:
+
+```
+> git branch
+```
+
+To change between branches use the following command:
+
+```
+> git checkout <existing_branch_name>
+```
+
+To create a new branch use the following command:
+
+```
+> git checkout -b <new_branch>
+```
